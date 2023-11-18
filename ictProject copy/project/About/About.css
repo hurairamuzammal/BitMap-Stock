@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+html {
+  font-size: 10px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 1.8rem;
+  
+}
+:root {
+  --primary-font-dpurp: 253, 48%, 21%;
+  --primary-purp: 253, 47%, 50%;
+  --primary-red: 1, 59%, 45%;
+  --primary-gray: 283, 14%, 29%;
+  --sec-lightPurp: 269, 20%, 56%;
+  --primary-whitePurpish: 306, 17%, 78%;
+  --primary-whiePurpish-light: 305, 9%, 95%;
+
+  /* spacing */
+  --margin-bottom: 4rem;
+
+}
+ul {
+  list-style-type: none;
+}
+ul li {
+  text-decoration: none;
+}
+
+
+
+.Heading{
+    background-color: hsla(var(--primary-font-dpurp), 100%);
+    color:white;
+  
+font-family:Montserrat;
+font: size 50px;
+    padding-bottom: 5px;
+    padding-top:25px ;
+    }
+  .paragraph
+  {
+    padding: auto;
+    font-family: 'Montserrat';
+    font-size: 25px;
+    text-align:center ;
+    margin: 40px;
+  
+  }
+ 
+ .container
+ {
+  text-align: center;
+  background: #f5f5f5;
+ 
+ 
+ }
+ 
+
+ .sub-container
+ {
+  max-width: 1800px;
+  margin: auto;
+  padding: 48px 0;
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: center;
+ }
+
+ .header{
+  padding-top: 25px;
+  color:#444;
+  font-size: 20px;
+  margin:auto;
+  line-height: 50px;
+ }
+  .team
+  {
+    margin: 10px;
+    padding:22px;
+    max-width:30%;
+    cursor:pointer;
+    transition:0.4s;
+    box-sizing:border-box;
+
+  }
+.team :hover{
+  background: #ddd;
+
+} 
+.teams image{
+
+width: 100px;;
+height: 100px;;
+}
+
+.name
+{
+  font-family: Montserrat;
+  padding:12px;
+  font-weight: bold;
+  font-size:16px;
+  text-transform:uppercase;
+}
+.design
+{
+  font-style: italic;
+  color:#888;
+
+}
+.about
+{ margin:20px;
+  font-weight: lighter;
+  color:#4e4e4e;
+  
+
+
+}
+ h1{
+ padding: auto;
+ font-family:'Montserrat';
+ font-weight:200;
+ font-size: 80px;
+ text-align:center ;
+  margin-top: 70px
+ }
+ 
+h2{ padding: auto;
+font-family:'Montserrat';
+ font-weight:600;
+ font-size: 80px;
+text-align:center ;
+padding-bottom: 30px;
+
+ }
+ 
+h4::after
+{
+ 
+    content:'';
+    background: hsla(var(--primary-purp), 100%);
+    display:block;
+    height:5px;
+ 
+    width: 500px;;
+ margin: 150px;
+ }
