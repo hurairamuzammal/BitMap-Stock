@@ -1,7 +1,7 @@
-### BitMap-Stock
-website Created with help of HTML,CSS and JavaScript
+# BitMap-Stock
+The Website is Created with help of HTML,CSS and JavaScript.It is excellent to practice these concepts for new websiter devolper.
 
-### Instruction:
+# Instruction:
 To View the site
 
 1.Clone the Project
