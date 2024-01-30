@@ -1,5 +1,5 @@
 # BitMap-Stock
-The Website is Created with help of HTML,CSS and JavaScript.It is excellent to practice these concepts for new websiter devolper.
+The Website is Created with help of HTML,CSS and JavaScript.It is excellent to practice these concepts for as a new web site devolper and University student.
 
 # Instruction:
 To View the site
