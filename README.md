@@ -6,3 +6,8 @@ To View the site
 
 1.Clone the Project
 2.Go to Ict project copy> project> index > index.html
+
+
+# Snap from the Website
+![Snapshot Website](Website/image.png )
+<img src="website/image.png" alt="Snap from the Website" width="100"/>
