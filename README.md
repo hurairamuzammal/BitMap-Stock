@@ -10,4 +10,3 @@ To View the site
 
 # Snap from the Website
 ![Snapshot Website](Website/image.png )
-<img src="website/image.png" alt="Snap from the Website" width="100"/>
