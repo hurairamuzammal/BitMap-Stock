@@ -8,5 +8,8 @@ To View the site
 2.Go to Ict project copy> project> index > index.html
 
 
-# Snap from the Website
-![Snapshot Website](Website/image.png )
+# Snap of the Website
+![Snapshot Website](Website/image.png )    
+
+
+# Thank You! 😊
